@@ -26,3 +26,7 @@ pip3 install -U pip numpy
 
 # Optional Packages: Uncomment below 4 lines to execute/install
 #sudo apt-get install libprotobuf-dev protobuf-compiler libgoogle-glog-dev libgflags-dev libgphoto2-dev libeigen3-dev libhdf5-dev doxygen
+
+
+# Installing Virtual Environment packages for python
+sudo pip install virtualenv virtualenvwrapper
